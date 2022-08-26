@@ -1,5 +1,5 @@
 <h1 align="center">Mia Rothman &nbsp; 🦄 </h1>
-<h4>Aspiring Full-Stack Developer &nbsp; ✨</h4>
+<h4 align="center">Aspiring Full-Stack Developer &nbsp; ✨</h4>
 
 📓 &nbsp; Learning Javascript.  
 🖥️ &nbsp; Currently working on building my portfolio.  
