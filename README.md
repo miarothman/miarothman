@@ -1,5 +1,5 @@
 <h1 align="center">Mia Rothman &nbsp; 🦄 </h1>
-<h3>Aspiring Full-Stack Developer &nbsp;✨ </h3>
+<h4>Aspiring Full-Stack Developer &nbsp; ✨</h4>
 
 📓 &nbsp; Learning Javascript.  
 🖥️ &nbsp; Currently working on building my portfolio.  
@@ -7,6 +7,15 @@
 💬 &nbsp; Ask me about Html, CSS & basic Javascript.  
 📫 &nbsp; Can reach me via email → [rothman.mia@gmail.com](mailto:rothman.mia@gmail.com?subject=[GitHub])  
 🐾 &nbsp; Dog mom to 3 Dobermans → [@3hellhounds](https://www.instagram.com/3hellhounds/)
+
+<h4>Languages & Tools:</h4>
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+</p>
+
+
 
 
 <!--
